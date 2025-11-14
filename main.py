@@ -1,3 +1,4 @@
+from claves import llaves
 import json
 
 def custom_hash(data):
